@@ -1,9 +1,13 @@
 section {
+  width: 80%;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 30px;
 }
 
 .artical-box {
-  background-color: aquamarine;
+  background: radial-gradient(blue, cyan);
+}
+.artical-box img {
 }
