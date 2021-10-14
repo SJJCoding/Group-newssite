@@ -1,10 +1,8 @@
 .cool {
-  width: 50%;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
+  display: flex;
   justify-content: center;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .artical-box {
@@ -12,4 +10,10 @@
 }
 .artical-box img {
   size: 100%;
+}
+.inter-cool {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+  justify-content: center;
 }
