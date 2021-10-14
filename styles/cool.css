@@ -6,10 +6,10 @@
 }
 
 .artical-box {
-  background: radial-gradient(blue, cyan);
+  background: radial-gradient(blue, cyan, yellow, lime, magenta);
 }
 .artical-box img {
-  size: 100%;
+  width: 100%;
 }
 .inter-cool {
   display: grid;
