@@ -9,3 +9,13 @@ html {
   --science-color: #3bd142;
   --food-color: #d1483b;
 }
+
+.pill {
+  display: inline-block;
+  text-transform: capitalize;
+  font-size: 12px;
+  padding: 5px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
