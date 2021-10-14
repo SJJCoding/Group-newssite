@@ -78,9 +78,9 @@ locally.
   the main branch, push your changes to GitHub, and then create a pull request
   and assign someone else to review/approve your changes.
 
-### Step 1 - Create a markdown file for each team member.
+### Step 1 - Create a markdown file for each team member
 
 There is a file named `team.md` that should contain a link to a markdown file
 for each team member. I have included `anne.md` as an example.
 
-### Step 2 - Create the news site, following the directions in [SPEC.md](SPEC.md).
+### Step 2 - Create the news site, following the directions in [SPEC.md](SPEC.md)
