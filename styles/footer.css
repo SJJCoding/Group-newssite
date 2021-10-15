@@ -1,0 +1,57 @@
+:root {
+  --primary-color: #c72727;
+  --light-color: #f3f3f3;
+  --dark-color: #333;
+  --link-color: #333;
+  --sports-color: #f99500;
+  --arts-color: #a66bbe;
+  --tech-color: #009cff;
+  --science-color: #3bd142;
+  --food-color: #d1483b;
+}
+body {
+  font-family: "Popping", sans-serif;
+  background-color: var(var(--light-color));
+}
+
+footer {
+  display: grid;
+  background-color: var(--dark-color);
+  color: #fff;
+  padding: 32px;
+
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 32px;
+}
+
+@media screen and (max-width: 600px) {
+  footer {
+    grid-template-columns: 1fr;
+  }
+}
+.footer-section1 {
+}
+.small-logo {
+  width: 150px;
+}
+.footer-section2 {
+}
+.footer-section3 {
+}
+.subscribe {
+  appearance: auto;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  box-sizing: border-box;
+
+  border: none;
+  color: #fff;
+  padding: 8px 12px;
+  background-color: var(--primary-color);
+}
+.email {
+  padding: 8px 10px;
+}
