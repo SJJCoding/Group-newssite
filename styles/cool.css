@@ -1,16 +1,18 @@
 .cool {
-  width: 50%;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
+  display: flex;
   justify-content: center;
-  max-width: 100vh;
+  margin: 2% auto;
 }
 
 .artical-box {
-  background: radial-gradient(blue, cyan);
+  background-color: gray;
 }
 .artical-box img {
-  size: 100%;
+  width: 100%;
+}
+.inter-cool {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  justify-content: center;
 }
