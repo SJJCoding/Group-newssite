@@ -7,9 +7,9 @@ h2 {
   flex-direction: column;
   justify-content: center;
   font-family: glory;
-  color: white;
+  color: #f3f3f3;
   height: 75vh;
-  background-image: url(images/robot.jpg);
+  background-image: url(../images/robot.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -22,4 +22,15 @@ h2 {
 
 .tech_pill {
   background-color: #009cff;
+}
+
+.Learn_more {
+  font-family: glory;
+  display: inline-block;
+  margin-top: 1vh;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  text-transform: capitalize;
+  background-color: #c72727;
 }
