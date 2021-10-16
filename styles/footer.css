@@ -29,15 +29,11 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-.footer-section1 {
-}
+
 .small-logo {
   width: 150px;
 }
-.footer-section2 {
-}
-.footer-section3 {
-}
+
 .subscribe {
   appearance: auto;
   user-select: none;
@@ -47,6 +43,8 @@ footer {
   cursor: default;
   box-sizing: border-box;
 
+  width: 90px;
+  margin: 10px auto;
   border: none;
   color: #fff;
   padding: 8px 12px;
@@ -54,4 +52,9 @@ footer {
 }
 .email {
   padding: 8px 10px;
+  width: 149px;
+}
+.button-contact {
+  color: #fff;
+  text-decoration-line: none;
 }
