@@ -18,4 +18,9 @@ html {
   color: white;
   border: none;
   border-radius: 10px;
+  text-transform: uppercase;
+}
+
+.container {
+  margin: 0 auto;
 }

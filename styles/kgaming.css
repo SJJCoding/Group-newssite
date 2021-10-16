@@ -1,0 +1,37 @@
+h2 {
+  font-size: 50px;
+  display: block;
+}
+
+.featured_article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: glory;
+  color: #f3f3f3;
+  height: 75vh;
+  background-image: url(../images/robot.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-left: 10px;
+}
+
+.featured {
+  max-width: 35%;
+}
+
+.tech_pill {
+  background-color: var(--tech-color);
+}
+
+.Learn_more {
+  font-family: glory;
+  display: inline-block;
+  margin-top: 1.5vh;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  text-transform: capitalize;
+  background-color: #c72727;
+}
