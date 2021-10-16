@@ -1,0 +1,25 @@
+h2 {
+  font-size: 50px;
+}
+
+.featured_article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: glory;
+  color: white;
+  height: 75vh;
+  background-image: url(images/robot.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-left: 10px;
+}
+
+.featured {
+  max-width: 35%;
+}
+
+.tech_pill {
+  background-color: #009cff;
+}
