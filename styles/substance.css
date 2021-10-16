@@ -3,6 +3,8 @@
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .nav-container {
+  padding-top: 40px;
+  background-color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
