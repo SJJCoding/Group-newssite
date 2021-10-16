@@ -13,8 +13,8 @@
   list-style-type: none;
 }
 ul a {
-  color: red;
-  font-weight: 30px;
+  color: black;
+  font-weight: bold;
   text-decoration: none;
 }
 a:hover {
