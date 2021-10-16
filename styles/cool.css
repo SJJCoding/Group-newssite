@@ -2,11 +2,11 @@
   display: flex;
   justify-content: center;
   width: 80%;
-  margin: 0 auto;
+  margin: 2% auto;
 }
 
 .artical-box {
-  background: radial-gradient(blue, cyan, yellow, lime, magenta);
+  background-color: gray;
 }
 .artical-box img {
   width: 100%;
@@ -14,6 +14,6 @@
 .inter-cool {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
+  grid-gap: 10px;
   justify-content: center;
 }
