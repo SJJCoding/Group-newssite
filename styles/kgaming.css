@@ -1,5 +1,6 @@
 h2 {
   font-size: 50px;
+  display: block;
 }
 
 .featured_article {
@@ -27,7 +28,7 @@ h2 {
 .Learn_more {
   font-family: glory;
   display: inline-block;
-  margin-top: 1vh;
+  margin-top: 1.5vh;
   padding: 10px;
   text-decoration: none;
   color: white;
