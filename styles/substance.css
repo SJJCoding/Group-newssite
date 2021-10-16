@@ -1,0 +1,20 @@
+.containerul{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.nav-container{
+  display: flex;
+  flex-direction: column;
+
+}
+ul{
+  list-style-type: none;
+  
+ 
+  
+}
+ul a{
+  color:red;
+  font-weight: 30px;
+  text-decoration: none;
+}
