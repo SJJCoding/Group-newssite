@@ -32,6 +32,7 @@ h2 {
   padding: 10px;
   text-decoration: none;
   color: white;
+  font-weight: bold;
   text-transform: capitalize;
   background-color: #c72727;
 }
