@@ -13,7 +13,6 @@ html {
 
 .pill {
   display: inline-block;
-  text-transform: capitalize;
   font-size: 12px;
   padding: 7px 10.5px;
   color: white;
