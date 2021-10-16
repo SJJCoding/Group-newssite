@@ -6,10 +6,8 @@ h2 {
 .featured_article {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   font-family: var(--default-font);
   color: #f3f3f3;
-  height: 75vh;
   background-image: url(../images/robot.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -18,7 +16,8 @@ h2 {
 }
 
 .featured {
-  max-width: 35%;
+  max-width: 70%;
+  padding: 30px;
 }
 
 .tech_pill {
