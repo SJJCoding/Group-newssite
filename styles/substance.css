@@ -1,20 +1,28 @@
-.containerul{
-  display:grid;
+.containerul {
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
-.nav-container{
+.nav-container {
   display: flex;
   flex-direction: column;
-
+  justify-content: center;
 }
-ul{
+ul {
   list-style-type: none;
-  
- 
-  
 }
-ul a{
-  color:red;
+ul a {
+  color: red;
   font-weight: 30px;
   text-decoration: none;
+}
+a:hover {
+  color: orangered;
+  opacity: 70%;
+  size: 200%;
+}
+img {
+  width: 200px;
+}
+.imglogo {
+  margin: 0 40%;
 }
