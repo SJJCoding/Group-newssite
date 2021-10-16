@@ -21,7 +21,7 @@ h2 {
 }
 
 .tech_pill {
-  background-color: #009cff;
+  background-color: var(--tech-color);
 }
 
 .Learn_more {
