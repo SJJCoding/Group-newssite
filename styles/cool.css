@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   margin: 2% auto;
+  font-family: glory;
 }
 .cool h2 {
   font-size: 25px;
@@ -17,7 +18,7 @@
 .inter-cool {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
+  grid-gap: 20px;
   justify-content: center;
 }
 
