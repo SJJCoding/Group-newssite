@@ -3,9 +3,12 @@
   justify-content: center;
   margin: 2% auto;
 }
-
+.cool h2 {
+  font-size: 25px;
+}
 .artical-box {
   background-color: gray;
+  padding: 5%;
 }
 .artical-box img {
   width: 100%;
@@ -15,4 +18,10 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
   justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .inter-cool {
+    grid-template-columns: 1fr;
+  }
 }
