@@ -35,3 +35,7 @@ h2 {
   text-transform: capitalize;
   background-color: #c72727;
 }
+
+.Learn_more:hover {
+  opacity: 80%;
+}
