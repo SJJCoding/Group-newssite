@@ -24,8 +24,13 @@ html {
 
 body {
   background-color: var(--light-color);
+  font-family: var(--default-font);
 }
 
 .container {
   margin: 0 auto;
+}
+
+p {
+  font-size: 22px;
 }
