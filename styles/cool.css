@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   margin: 2% auto;
+  font-family: glory;
 }
 .cool h2 {
   font-size: 25px;
